@@ -61,3 +61,23 @@ list1.add(stdin.readLineSync());
 
 
   }
+// _________________________________________________________
+  import 'dart:io';
+
+void main(){
+
+   var size;
+   List list1=[];
+   print("How many State you Want to Enter ?");
+   size=int.parse(stdin.readLineSync()!);
+   print("Enter the $size of States");
+ var newlist=List.generate(size,(index){
+  list1.add(stdin.readLineSync()!);
+ });
+ print("\nStates Are :");
+   list1.forEach((element) {
+    print(element);
+   });
+
+
+  }
