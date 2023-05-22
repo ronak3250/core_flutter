@@ -10,7 +10,7 @@
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/output_5_1.jpg" width="350" alt="accessibility text">
    <h1> Output 5_2</h1><br/>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/5_2-ouput.png" width="350" alt="accessibility text">
-   <p float="left"><h1> Outputs Project 1</h1>
+   <p float="right"><h1> Outputs Project 1</h1>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/project_1_first.png" width="150" alt="accessibility text">
  
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/project_1_second.png" width="150" alt="accessibility text">
