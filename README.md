@@ -36,24 +36,21 @@
  
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task8.png" width="100" alt="accessibility text">
  </p>
-     <h1>Outputs 6.1</h1>
+     <h1>Outputs 6.2</h1>
 <p float="left">
   
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task1.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task1.png" width="100" alt="accessibility text">
    
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task2.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task2.png" width="100" alt="accessibility text">
    
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task3.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task3.png" width="100" alt="accessibility text">
 
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task4.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task4.png" width="100" alt="accessibility text">
   
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task5.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task5.png" width="100" alt="accessibility text">
   
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task6.png" width="100" alt="accessibility text">
-  
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task7.png" width="100" alt="accessibility text">
- 
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task8.png" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6_2/output_6_2_task6.png" width="100" alt="accessibility text">
+
  </p>
 </p>
 
