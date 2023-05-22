@@ -14,21 +14,21 @@
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/project_1_first.png" width="350" alt="accessibility text">
    <h1> Output Project 1 Second Program</h1><br/>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/project_1_second.png" width="350" alt="accessibility text">
-    <h1> Output 6_1_1</h1><br/>
+    <p> Output 6_1_1</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task1.png" width="350" alt="accessibility text">
-    <h1>Output 6_1_2</h1><br/>
+    <p>Output 6_1_2</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task2.png" width="350" alt="accessibility text">
-    <h1>Output 6_1_3</h1><br/>
+    <p>Output 6_1_3</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task3.png" width="350" alt="accessibility text">
-    <h1> Output 6_1_4</h1><br/>
+    <p> Output 6_1_4</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task4.png" width="350" alt="accessibility text">
-    <h1>Output 6_1_5</h1><br/>
+    <p>Output 6_1_5</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task5.png" width="350" alt="accessibility text">
-    <h1> Output 6_1_6</h1><br/>
+    <p> Output 6_1_6</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task6.png" width="350" alt="accessibility text">
-    <h1> Output 6_1_7</h1><br/>
+    <p> Output 6_1_7</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task7.png" width="350" alt="accessibility text">
-    <h1>Output 6_1_8</h1><br/>
+    <p>Output 6_1_8</p>
   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/6.1Images/output_6_1_task8.png" width="350" alt="accessibility text">
    
 </p>
