@@ -59,15 +59,15 @@
 <h1> Output 7.1 </h1>
 <p float="left">
   
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_1.dart" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_1.png" width="100" alt="accessibility text">
    
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_2.dart" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_2.png" width="100" alt="accessibility text">
    
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_3.dart" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_3.png" width="100" alt="accessibility text">
 
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_4.dart" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_4.png" width="100" alt="accessibility text">
   
-  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_5.dart" width="100" alt="accessibility text">
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/7.1/7_1_5.png" width="100" alt="accessibility text">
   
 
 
