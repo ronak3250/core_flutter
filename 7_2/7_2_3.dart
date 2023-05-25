@@ -18,7 +18,7 @@ class Bolt extends StatelessWidget {
               backgroundColor: Color.fromRGBO(33, 33, 33, 1),
               centerTitle: true,
               title: Text(
-                "THE WALL",
+                "SPLITTER",
                 style: TextStyle(fontSize: 25),
               ),
             ),
