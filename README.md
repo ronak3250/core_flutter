@@ -105,6 +105,15 @@
   <p>
    <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/8_2.png" width="100" alt="accessibility text">
  </p>
+ 
+
+ <h1> Output 8.2 </h1>
+  <p float="left">
+   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/9_1_01.png" width="100" alt="accessibility text">
+ 
+
+   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/9_1_02.png" width="100" alt="accessibility text">
+ </p>
 </p>
 
 
