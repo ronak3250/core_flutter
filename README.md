@@ -121,6 +121,12 @@
 
    <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/9_2_02.png" width="100" alt="accessibility text">
  </p>
+   <h1> Dice App </h1>
+
+   <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/Dice_app.png" width="100" alt="accessibility text">
+ 
+
+ </p>
 
 </p>
 
