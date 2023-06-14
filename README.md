@@ -141,6 +141,19 @@
    <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/loan_app.jpg" width="100" alt="accessibility text">
 
  </p>
+ <h1> Output 10.1 </h1>
+ <p float="left">
+  
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/10_1_1.png" width="100" alt="accessibility text">
+   
+  <img src="https://github.com/ronak3250/core_flutter/blob/main/Images/10_1_2.png" width="100" alt="accessibility text">
+
+
+
+  
+
+
+ </p>
  
 
 </p>
