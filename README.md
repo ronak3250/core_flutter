@@ -135,6 +135,13 @@
  
 
  </p>
+  <p>
+   <h1>BMI_UI</h1>
+
+   <img src=" https://github.com/ronak3250/core_flutter/blob/main/Images/BMI_UI.png" width="100" alt="accessibility text">
+
+ </p>
+
  <p>
    <h1>Loan App</h1>
 
