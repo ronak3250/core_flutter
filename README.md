@@ -161,6 +161,21 @@
 
 
  </p>
+  <h1> Output 10.2 </h1>
+ <p float="left">
+  
+  <img src=" https://github.com/ronak3250/core_flutter/blob/main/Images/10_2_1.png" width="100" alt="accessibility text">
+
+  <img src=" https://github.com/ronak3250/core_flutter/blob/main/Images/10_2_2.png" width="100" alt="accessibility text">
+   <img src=" https://github.com/ronak3250/core_flutter/blob/main/Images/10_2_3.png" width="100" alt="accessibility text">
+   <img src=" https://github.com/ronak3250/core_flutter/blob/main/Images/10_2_4.png" width="100" alt="accessibility text">
+ 
+
+  
+
+
+ </p>
+
  
 
 </p>
